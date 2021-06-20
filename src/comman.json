@@ -1,0 +1,35 @@
+{
+   "data": [
+    {
+        "id":1,
+        "name":"Web Development",
+        "description":" Web development starts with a company that you can trust and be sure that your idea is accepted, understood by the team. FHS ensures the commitment , clear code, fast performance – generally, a website that pleases your eye, makes business lucrative and you would not need to rearrange it, rebuild or redesign progressive web app, or a marketing site."
+    },
+    {
+        "id":2,
+        "name":" Mobile App Development",
+        "description":" From concept to application development, FHS covers the entire mobile app development cycle, no matter how diverse or complex your needs are. Our ability to meet your needs stem from our team of experts, who have years of experience in global app solution services and product engineering industries."
+    },
+    {
+        "id":3,
+        "name":"BlockChain",
+        "description":" A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain. Each block in the chain contains a number of transactions, and every time a new transaction occurs on the blockchain, a record of that transaction is added to every participant’s ledger."
+    },
+    {
+        "id":4,
+        "name":"Graphics designing",
+        "description":"Developing a professional image and eye-catching materials is an essential part of an effective marketing strategy. Our design team works collaboratively to give your company an eye-catching brand to put you ahead of your competitors. From logos to print work to packaging, we deliver inspired, effective, intelligent work for your brand."
+    },
+    {
+        "id":5,
+        "name":"Devops",
+        "description":" DevOps helps organizations align development and operations teams to improve the quality of code, undertake continuous integration, and deliver faster. FHS, a leading DevOps consulting company, can enable continuous delivery pipeline across the cloud platforms for faster time-to-market at reduced costs."
+    },
+     {
+        "id":6,
+        "name":"Digital Marketing",
+        "description":"FHS is one of the leading and state of art Providing the best and high-quality services for marketing and advertising. Search Engine Optimization (SEO) to Web Design and Development, Social Media Optimization (SMO), Social Media Marketing (SMM), and much more."
+    }
+   ]
+   
+}

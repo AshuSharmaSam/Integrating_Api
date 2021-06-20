@@ -1,21 +1,23 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css'
+import Dashboard from './Dashboard';
+import Dash from './Dash';
+import Login1 from './Login1';
+import { BrowserRouter, BrowserRouter as Router } from "react-router-dom";
+import { Route,Switch} from "react-router";
+import {Link} from "react-router-dom";
+import Fo from './fo';
+function App(){
+  return(
+    <div className="app-routes">
+    <Switch>
+    <Route path="/"  exact component={Fo} />
 
-import './App.css';
-import React from "react";
-import 'bootstrap/dist/css/bootstrap.min.css';
-import First from './First';
-import Second from './Second';
-class App extends React.Component {
-  render(){
-    return(
-      <>
-      <First/>
-      
-      </>
-    )
-  }
-  
- 
-  }
-
+      <Route path="/admin"  component={Dashboard} />
+    </Switch>
+  </div>
+  )
+}
 
 export default App;

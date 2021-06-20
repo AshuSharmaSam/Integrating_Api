@@ -1,0 +1,247 @@
+{
+    "header":{
+        "home":"Home",
+        "about":"About",
+        "portforlio":"Portfolio",
+        "contact":"Contact"
+    },
+    "home":{
+        "services":{
+            "heading":"OUR SERVICES",
+            "subheading":"YEARS OF EXPERIENCE",
+            "web":{
+                "heading":"WEB DEVELOPMENT",
+                "content":" Web development starts with a company that you can trust and be sure that your idea is accepted, understood by the team. FHS ensures the commitment , clear code, fast performance – generally, a website that pleases your eye, makes business lucrative and you would not need to rearrange it, rebuild or redesign progressive web app, or a marketing site."
+    
+            },
+            "mobile":{
+                "heading":"MOBILE APP DEVELOPMENT",
+                "content":" From concept to application development, FHS covers the entire mobile app development cycle, no matter how diverse or complex your needs are. Our ability to meet your needs stem from our team of experts, who have years of experience in global app solution services and product engineering industries."
+            },
+            "graphics":{
+                "heading":"GRAPHICS DESIGNING",
+                "content":"Developing a professional image and eye-catching materials is an essential part of an effective marketing strategy. Our design team works collaboratively to give your company an eye-catching brand to put you ahead of your competitors. From logos to print work to packaging, we deliver inspired, effective, intelligent work for your brand. "
+    
+            },
+            "devops":{
+                "heading":"DEVEOPS",
+                "content":" DevOps helps organizations align development and operations teams to improve the quality of code, undertake continuous integration, and deliver faster. FHS, a leading DevOps consulting company, can enable continuous delivery pipeline across the cloud platforms for faster time-to-market at reduced costs."
+    
+            },
+            "digital":{
+                "heading":"DIGITAL MARKETING",
+                "content":"FHS is one of the leading and state of art Providing the best and high-quality services for marketing and advertising. Search Engine Optimization (SEO) to Web Design and Development, Social Media Optimization (SMO), Social Media Marketing (SMM), and much more. "
+    
+            },
+            "blockchain":{
+                "heading":"BLOCK CHAIN",
+                "content":" A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain. Each block in the chain contains a number of transactions, and every time a new transaction occurs on the blockchain, a record of that transaction is added to every participant’s ledger."
+    
+            }
+            
+        },
+        "banner":{
+            "banner1":"https://unsplash.it/1600/800?image=507",
+            "banner2":"https://unsplash.it/1600/800?image=502",
+            "banner3":"https://unsplash.it/1600/800?image=503",
+            "banner4":"https://unsplash.it/1600/800?image=501"
+            
+        },
+        "featured":{
+            "heading":"FEATURED WORK",
+            "subheading":"WE TAKE PRIDE IN OUR WORK",
+            "portfolio":"View Portfolio",
+            "img1":{
+                "src":"/static/images/banner/sc11.png",
+                "url":"https://www.peymynt.com/",
+                "name":"Payment"
+            },
+              "img2":{
+                "src":"/static/images/banner/sc2.png",
+                "url":"https://www.cuddlynest.com/",
+                "name":"Booking"
+            },
+            "img3":{
+                "src":"/static/images/banner/sc7.png",
+                "url":"https://trym-dev.firebaseapp.com/",
+                "name":"Barber"
+            },
+            "img4":{
+                "src":"/static/images/banner/sc5.png",
+                "url":"https://www.theautopartsshop.com/",
+                "name":"Car Parts"
+            },
+              "img5":{
+                "src":"/static/images/banner/sc31.png",
+                "url":"https://www.localize.city/",
+                "name":"Buy Home"
+            },
+            "img6":{
+                "src":"/static/images/banner/sc6.png",
+                "url":"https://stylemepretty.com/",
+                "name":"Boutique"
+            }
+        },
+        "testimonials":{
+            "heading":"WHAT OUR CLIENTS ARE SAYING",
+            "subheading":"DON'T JUST TAKE OUR WORD",
+            "client1":{
+                "name":"Mariley Franco",
+                "profession":"Art Director,Design Company",
+                "reviews":" Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen."
+            },
+            "client2":{
+                "name":"Jane Doe",
+                "profession":"Home Owner",
+                "reviews":" Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen."
+            }
+        },
+        "contact":{
+            "heading":"WE CAN HELP BUILD YOUR PROJECT!",
+            "subheading":"WE TAKE PRIDE IN OUR WORK",
+            "button":"Contact Us"
+        }
+       
+    },
+    "footer":{
+        "address":{
+            "heading":"Address", 
+            "line":"HNo.20,near PNB,Jaspuriya lane",
+            "city":"Ramnagar,Nainital,Uttrakhand(244715)"
+        },
+        "phone":{
+            "heading":"PHONE",
+            "number":"+91-9639339606"
+        },
+        "email":{
+            "heading":"EMAIL",
+            "id":"jalaj@freelancers.co"
+        },
+        "followus":"FOLLOW US",
+        "ending":" © 2019 All Rights Reserved. Developed by Free_Lancers_House"
+    },
+    "about":{
+               "intro":{
+            "heading":"ABOUT US",
+            "subheading":"Innovating with a Digital Mindset",
+            "content1":" We are a boutique digital transformation consultancy and development company.",
+            "content2":"Since 2007 we have been a visionary and a reliable software engineering partner for world-class brands. We are a boutique digital transformation consultancy and software development company that provides cutting edge engineering solutions.",
+            "touch":"Get in Touch"
+        },
+        "solutions":{
+            "heading":"Solutions for the world",
+            "content1":{
+                "heading":"WEB DEVELOPMENT",
+                "content":"FHS builds sites that work for your business and your users — be it a complex intranet platform, FHS is an outsourcing company that provides web development services to ensure the presence of your business on the Internet.We use the latest technologies and frameworks in web development."
+            },
+            "content2":{
+                "heading":"MOBILE APP DEVELOPMENT",
+                "content":"We understand the importance of user experience and user interface in app design. Our UI/UX designers strictly follow the design guidelines by Apple and Google to create visually appealing apps without hampering their functionality."
+            },
+            "content3":{
+                "heading":"BLOCKCHAIN",
+                "content":" FHS is one of the leading Enterprise Blockchain companies in the world. With a strength of over 50 experts in emerging technologies like Blockchain, Smart Contracts, and IoT, FHS has implemented various Blockchain applications and solutions for enterprises."
+            }
+        },
+        "wedo":{
+            "heading":"WHAT WE DO",
+            "subheading":"We Provide Flexible IT Services",
+            "subheading2":" Fortune 500 enterprises and established brands trust our software development.",
+            "content1":"Since 2007 we have been a visionary and a reliable software engineering partner for world-class brands. We are a boutique digital transformation consultancy.",
+            "content2":"Since 2007 we have been a visionary and a reliable software engineering partner for world-class brands. We are a boutique digital transformation consultancy.",
+            "content3":"Since 2007 we have been a visionary and a reliable software engineering partner for world-class brands. We are a boutique digital transformation consultancy."
+        },
+        "react":{
+            "heading":"We provide development services that suit your business needs. Our ReactJS developers offer custom software development services and solutions for complex business scenarios that are flexible & cost effective."
+            
+        },
+          "angular":{
+            "heading":"Angular is an open-source JavaScript framework for client-side development of large-scale dynamic applications. Created by Google, Angular offers a rich toolset that helps write less code, make it well-structured, easy to test, reuse and maintain.Our developers leverage Angular, often as a part of the MEAN stack, to build engaging web and mobile applications at increased speed, including ecommerce, portals, dashboards, video streaming, and other popular types of apps"
+            
+        },
+        "html":{
+            "heading":"HTML and Cascading Style Sheets (CSS) are the foundation of all our web design projects. It’s of utmost importance that every site we develop be well organized, using the latest HTML and CSS standards. All websites are built using responsive design techniques to make for a great mobile, tablet, and desktop experience. IN FHS  we  ensure a good user experience, as well as lay the groundwork for optimal search engine exposure."
+            
+        },
+          "css":{
+            "heading":"FHS is your pioneer web-app solution provider for your business industry offer CSS Development Services. Hire our CSS designers for creative and intuitive websites and mobile app designs. We use CSS (Cascading Style Sheets) to give a modern and attractive look feel to your HTML5 web app pages or web app documents. CSS - Cascading Style Sheets a cornerstone web technology from the World Wide Web. We give a Modern look and feel to your online web-apps that are liked by end-viewers with the use of CSS 3. It is the name of a simple style sheet programming language."
+            
+        },
+        "jquery":{
+            "heading":"jQuery is proven to provide rich content and effects for UI widgets and plugins. It is also said to be one of the strong contributor in the ajax applications implementation. At FHS, the developers concentrates more on the cutting edge technology to enhance the services we provide and jQuery is one of the technologies that we value a lot."
+            
+        },
+          "vue":{
+            "heading":"FHS is one of the best Vue JS Web development company in India focused on developing feature-rich Vue JS solutions. Our professional Vue JS developers will utilize this performance-obsessed framework to design a futuristic front-end application that attracts users. Our Vue JS development company has many years of industry experience. We have offered high-end Vue JS development services to a broad spectrum of industries from e-commerce, healthcare to education. Our clients, both start-ups and established have received amazing custom Vue JS development solutions that fulfilled their business requirements to a major extent"
+            
+        },
+        "next":{
+            "heading":"Being a Next.js development company, we understand how critical it is to the project management models and keep the stakeholders in the loop throughout the Next.js development process.You can hire our dedicated Next.js developers and have them work closely with your team for effective planning, establishing goals, and guaranteed Web app development.Based in INDIA, our Next.js developers are highly skilled and possess the knowledge required to develop high performing and responsive Next.js web applications."
+            
+        },
+          "php":{
+            "heading":"PHP is a general-purpose scripting language, intensively used for developing web applications. Currently supported by the overwhelming majority of hosting providers, and our PHP web development company uses this popular language to create dynamic websites.It is the language of the White House websites, Facebook, Slack, Wikipedia, Flickr, and the basis for the majority of present-day web services, B2C and B2B applications, content management systems, and ecommerce solutions.With more than 15 years in PHP development, FHS provides qualified PHP developers to help you leverage major PHP-based software appeals."
+            
+        },
+         "javascript":{
+            "heading":"With expert JavaScript developer on board, we provide all JavaScript development services to match your business requirement. JavaScript popularly known as JS, is a high-level, Scalable and reliable language.JavaScript is now a days well known technology for front-end along with CSS and HTML. With the use of JavaScript, we can create interactive web pages and so why many of popular websites are migrating them self to JavaScript. "
+            
+        },
+        "node":{
+           "heading":"Node.js is an open-source JavaScript runtime environment for server-side development of software that can efficiently operate in a real-time, data-intensive environment. Such benefits make Node.js highly feasible in IoT applications and software for ecommerce transactions, multi-user communication and collaboration.FHS developers use Node.js to deliver fast, scalable, software for 23 industries, including healthcare, retail, and financial services."
+           
+       },
+       "java":{
+        "heading":"Java application development services imply the engineering of powerful web and mobile applications, web services, and embedded software solutions able to run on any platform with the Java language and framework.FHS is a global Java application development company that has already accumulated more than 20 years of experience in Java development. We’re committed to building sustainable and high-quality Java solutions using the latest and most trusted techs and architecture patterns."
+       
+      },
+      "scala":{
+        "heading":"First appeared in 2003 as part of Typesafe Reactive Platform, Scala became popular multi-paradigm language for the JVM that integrates features of object-oriented and functional programming.Our Scala dedicated developers use the best practices of both programming paradigms to deliver responsiveness, resilience, elasticity and maximum code reuse and extensibility for tasks ranging from small scripts to complex mission critical server systems. Outsourcing services for projects of any size and complexity including Scala software development, deployment, consulting and testing are available for your short-term and long-term engagements."
+       
+      },
+      "laravel":{
+          "heading":"FHS is one of the top Laravel web development company. We provide services like custom Laravel development, e-commerce websites, Laravel web development, Laravel / MySQL development, social networking solutions, and more. Our Laravel websites are fully integrated, and uniquely designed to help our clients achieve maximum ROI. Our experienced Laravel developers build sites with the latest technologies, user interfaces, and methodologies – a comprehensive platform for your business or customer."
+      },
+      "sql":{
+        "heading":"jQuery is proven to provide rich content and effects for UI widgets and plugins. It is also said to be one of the strong contributor in the ajax applications implementation. At FHS, the developers concentrates more on the cutting edge technology to enhance the services we provide and jQuery is one of the technologies that we value a lot."
+    },
+    "python":{
+      "heading":"Extend your in-house team with Python developers or hire a dedicated Python team from FHS to achieve technological advantage and save development costs with first-time-right code, on-time delivery, and high development productivity.Python is known for its portability capability to run on various platforms. It helps to use widely with Mac, Linux, Windows, Macintosh, and more."
+    },
+    "mong":{
+        "heading":"Scale-up your business operations with reliable and powerful database support of MongoDB. One of the best solutions for startups, medium to large enterprises create fast operational apps and websites along with storing a huge chunk of data in MongoDB.MongoDB is a leading cross-platform and NoSQL database that helps organizations to become more powerful incorporating any kind of website/app data. "
+    }  ,
+    "native":{
+        "heading":"Backed by the robustness of Facebook and ease of JavaScript, React Native puts a stop to the age-old confusion that mobile app entrepreneurs face when choosing a cost effective solution. We help you develop an app that offers a native UX or one that is faster to create and operate using the React Native framework."
+    },
+    "flutter":{
+      "heading":"Flutter is an open-source mobile application development framework created by Google which uses DART as its primary language. Complete with widgets, tools, and a proper framework, Google’s mobile app SDK provides Flutter app developers with an opportunity to easily build and deploy visually attractive, fast mobile apps on both Android and iOS platforms."
+    },
+    "android":{
+        "heading":"We are a full-stack, end-to-end Android App Development Company, having efficiently developed and deployed over 340+ apps across a wide range of Android devices.We use Kotlin and Java as our primary tech stack to deliver easy to use, intuitive apps. Our highly skilled Android app developers know the secret formula to develop apps that witness more than a million downloads on the Google Play Store. "
+    } ,
+    "block":{
+        "heading":"Blockchain is bringing a radical change in the business world with its characteristics of decentralization, immutability, transparency, and distributed ledger. We, with a clear understanding of its growing potential and experience of integrating blockchain into mobility solutions, are offering the best of both the worlds to startups and enterprises. From the development of a Smart Contract and Cryptocurrencies, Auditing the processes before they go live on the unaltered system and helping Start-ups raise an ICO, we have done it all."
+    }
+
+    
+    
+      
+    },
+    "contact":{
+        "msg":{
+            "msg1":{
+                "heading":"NEED HELP?",
+                "content":"Have questions, big ideas or something to share? Our community is designed to help you and open source community thrive"
+            },
+            "msg2":{
+                "heading":"24/7 CUSTOMER SUPPORT",
+                "content":"At FHS Support Services, we live up to our name. Whether for on-site assistance, technical support, or remote support, Source is here to ensure our customers’ success and end-users’ business productivity. We offer dependable, on-demand support options including 24/7 technical and remote support and 4-hour and next business day global on-site support in over 100 countries worldwide. Through our state-of-the-art training programs, Source Central case management platform, U.S.-based Support Operations Center, and our network of locally based field service professionals, we deliver complete, one-stop technical product support services with unparalleled scalability and expertise."
+            }
+        },
+        "form":{
+            "heading":"Send Us a Message",
+            "content":"Have some suggestions or just want to say hi? Contact us:"
+        }
+    }
+}

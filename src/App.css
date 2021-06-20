@@ -1,38 +1,85 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.image-uploader-wrapper {
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  padding: 10px;
+}
+.image-uploader-wrapper .display-box {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fbfbfb;
+  max-height: 100%;
+  max-Width:100%;
+  padding: 20px;
+}
+.image-uploader-wrapper .display-box:hover .icon-text-box, .image-uploader-wrapper .display-box.drag-over .icon-text-box {
+  background-color:#19ad9c;
+  cursor: pointer;
+  color: #fff;
+  text-shadow: 0px 1px 0 #999;
 }
 
-.App-link {
-  color: #61dafb;
+.image-uploader-wrapper .display-box .icon-text-box {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-width: 4px;
+  border-style: dashed;
+  border-color: #444;
+  width: 100%;
+  height: 100%;
+  text-shadow: 0px 0px 0 #999;
+  transition: background-color 0.2s ease-in, color 0.2s ease-in, border-color 0.2s ease-in, text-shadow 0.2s ease-in;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.image-uploader-wrapper .display-box .icon-text-box .upload-icon {
+  width: 100px;
+  height: 100px;
+  margin: 50px;
+  box-sizing: border-box;
+  transform: translateY(0px);
+  transition: transform 0.2s ease-in-out;
+}
+.image-uploader-wrapper .display-box .icon-text-box .upload-icon i.fa.fa-upload {
+  width: 100px;
+  height: 100px;
+  font-size: 100px;
+}
+.image-uploader-wrapper .display-box .icon-text-box .upload-button, .image-uploader-wrapper .display-box .icon-text-box .cancel-upload-button {
+  margin: 0 10px;
+  position: relative;
+  z-index: 9999;
+}
+.image-uploader-wrapper .display-box .icon-text-box .error-notification {
+  animation: fadeInDown 0.5s;
+  position: absolute;
+  top: 20px;
+  background-color: #dfb852;
+  border-radius: 5px;
+  color: #444;
+  padding: 5px 10px;
+}
+.image-uploader-wrapper .display-box .icon-text-box .error-notification p {
+  margin: 0;
+  text-shadow: none;
+}
+.image-uploader-wrapper .display-box .upload-image-input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  cursor: pointer;
+}
+@media (min-width: 768px) {
+  .image-uploader-wrapper .display-box {
+    width: 600px;
+ }
 }
